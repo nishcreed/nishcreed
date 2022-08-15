@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ## :man_technologist: About Me:
-I am a second year undergraduate who is pursuing B.E. Computer Science and Engineering at SSN College of Engineering(2020-2024).
+I am a second year undergrad who is pursuing B.E. Computer Science and Engineering at SSN College of Engineering(2020-2024).
 
 ## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]("https://www.linkedin.com/in/nishaanth-r-391309243")
